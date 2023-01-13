@@ -1,0 +1,194 @@
+ #---- srtargus  restaurantes 
+
+  Stargus 
+
+  Inicio
+  Nosotros
+  Tienda
+  Galeria
+  Inscribirse
+  
+  <ion-icon name="cart-outline"></ion-icon>
+
+  reservaciones
+
+  
+
+
+# ------- Banner principal -----#
+
+De tu fonda favorita
+
+La comida que ya conoces al mejor precio!
+
+El alimento es cualquier sustancia consumida para proporcionar
+ apoyo nutricional a un organismo.
+
+ Reservar una mesa
+
+
+# -------  Promociones -----#
+
+Pizza, Sushi, Hamburguesas, Sopas, Postres
+Lorem ipsum dolor sit amet consecteturIpsam laudantium sunt quos sapiente fuga dicta, quibusdam consequatur facilis earum velit in explicabo. Accusantium.
+
+
+
+#---- Nosotros ----#
+
+Caffe, hamburguesas y las mejores pizzas <span class="span">de la ciudad!
+
+Durante los últimos veinte años, Stargus ha sido un restaurante siempre curioso por aprender y crecer,
+¡para ser lo mejor que podamos ser! Nuestro origen tiene sus raíces en una exploración del mundo natural, que comenzó con un simple deseo de redescubrir
+los ingredientes locales salvajes mediante la búsqueda de alimentos y siguiendo las estaciones.
+
+
+-- Alimentos deliciosos y saludables
+-- Zona familiar y para niños
+-- Música y otras instalaciones
+--Entrega a domicilio de comida más rápida
+
+.Ordenar ahora
+
+
+##----- TIENDA -----#
+
+
+Platos Populares
+
+Nuestros deliciosos <span class="span"> Alimentos</span>
+
+Los Mejor de nuestros platillos realizados con los mejores productos porque pensamos en tu salud, somos los preferidos de las familias peruana.
+
+Todos - pizza -  Hamburguesas - Sopas - Sushi
+
+-------------------------
+ - 15 % 
+
+ Ordenar ahora
+
+ Chicken
+  Pollo Frito Ilimitado
+  Precio:
+  S/ 49.00
+  S/69.00 
+ 
+ 
+-------------------------
+ - 15 % 
+
+ Ordenar ahora
+
+  Chicken
+  Alistas Broaster
+  Precio:
+  S/ 49.00
+  S/69.00 
+ 
+ 
+-------------------------
+ - 15 % 
+
+ Ordenar ahora
+
+  Chicken
+ Barbacoa de pollo
+  Precio:
+  S/ 49.00
+  S/69.00 
+ 
+ 
+-------------------------
+ - 15 % 
+
+ Ordenar ahora
+
+  Chicken
+  Alistas Broaster
+  Precio:
+  S/ 49.00
+  S/69.00 
+ 
+ 
+
+ ##----- TIENDA -----#
+
+ Amante de la Comida 
+ <span class="span">Hamburgesas de Calidad!</span>
+
+ Lorem ipsum dolor sit amet consectetur adipisicing elit.n reiciendis! Sed, id odit? 
+ Officiis, autem porro. Perspiciatis placeat, eveniet impedit praesentium commodi quia.
+
+ Ordenar ahora
+
+
+  #---- GALERIA ----#
+
+
+  50% DE DESCUENTO!
+
+  ¡Descuento para deliciosas hamburguesas sabrosas!
+
+  Oferta de descuento del 50% solo esta semana
+  
+  Ordenar ahora
+
+  ------------------------------
+  Pizza sabrosas!
+  50% de descuento ahora
+  Ordenar ahora
+  ------------------------------
+  ¡hamburguesas sabrosas!
+  50% de descuento ahora
+  Ordenar ahora
+  ------------------------------
+  Pizza sabrosas!
+  50% de descuento ahora
+  Ordenar ahora
+  ------------------------------
+  Sopas!
+  50% de descuento ahora
+  Ordenar ahora
+
+
+
+   #---- FOOOTER ----#
+
+Stargus
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam molestiae enim explicabo iste?
+Odit omnis porro, commodi quo consectetur laborum magnam voluptate.
+ ----------------------
+Contactanos
++1 (02352) 109-9222
+prueba@email.com
+153 jiron Pizarro Almagro , MT 09514
+
+  ------------------------------
+  
+  REDES
+
+-----------------------------
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+  Horario de apertura
+
+  Lunes a viernes: 08: 00-22: 00
+  Martes 4PM: hasta media noche
+  Sábado: 10: 00-16: 00
+
+
+  ------------------------------
+
+  Reservar una mesa
+  Enviar
+
+
+
+
+
+
+
