@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github.com/bercode21/stargus)]!
+  ![GitHub repo size](https://img.shields.io/github.com/bercode21/stargus)
 
   <br />
   <br />
