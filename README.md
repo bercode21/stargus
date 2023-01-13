@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/https://github.com/bercode21/stargus)
+  ![GitHub repo size](https://img.shields.io/github.com/bercode21/stargus)]!
 
   <br />
   <br />
@@ -9,7 +9,7 @@
 
   stargus is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://bercode21.github.io/stargus/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
