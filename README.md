@@ -1,9 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github.com/bercode21/stargus)
-
-  <br />
-  <br />
+ 
 
   <h2 align="center">stargus - Restaurant website</h2>
 
